@@ -2,3 +2,4 @@ discord.py
 requests
 polars
 python-dotenv
+loguru
