@@ -3,3 +3,4 @@ requests
 polars
 python-dotenv
 loguru
+binance-connector
